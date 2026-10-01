@@ -217,3 +217,4 @@ export function QuickLogModal({
     </div>
   );
 }
+

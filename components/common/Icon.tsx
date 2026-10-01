@@ -178,3 +178,4 @@ export function Icon({ name, size = 20, stroke = 1.9, className = "" }: IconProp
     </svg>
   );
 }
+

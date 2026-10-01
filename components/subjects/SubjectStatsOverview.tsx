@@ -133,3 +133,4 @@ export function SubjectStatsOverview({ subjects }: SubjectStatsOverviewProps) {
     </div>
   );
 }
+

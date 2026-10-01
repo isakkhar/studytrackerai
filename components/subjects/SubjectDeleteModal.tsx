@@ -74,3 +74,4 @@ export function SubjectDeleteModal({
     </div>
   );
 }
+
